@@ -30,8 +30,8 @@ if (IMC < 17) {
         </div>`
  } else if (IMC >= 17 && IMC <= 18.49) {
         res.InnerHTML = `<div class = "status">
-        <p>Peso</p>>
-        <p>Altura</p>>
+        <p>Peso</p>
+        <p>Altura</p>
         <p>IMC</p>
         <p>Resultado</p>
         </div>
@@ -43,8 +43,8 @@ if (IMC < 17) {
         </div>`
  } else if (IMC >= 18.5 && IMC <= 24.99) {
         res.InnerHTML = `<div class = "status">
-        <p>Peso</p>>
-        <p>Altura</p>>
+        <p>Peso</p>
+        <p>Altura</p>
         <p>IMC</p>
         <p>Resultado</p>
         </div>
@@ -56,8 +56,8 @@ if (IMC < 17) {
         </div>`
  } else if (IMC >= 25 && IMC <= 29.99) {
         res.InnerHTML = `<div class = "status">
-        <p>Peso</p>>
-        <p>Altura</p>>
+        <p>Peso</p>
+        <p>Altura</p>
         <p>IMC</p>
         <p>Resultado</p>
         </div>
@@ -69,8 +69,8 @@ if (IMC < 17) {
         </div>`
  } else if (IMC >= 30 && IMC <= 34.99) {
         res.InnerHTML = `<div class = "status">
-        <p>Peso</p>>
-        <p>Altura</p>>
+        <p>Peso</p>
+        <p>Altura</p>
         <p>IMC</p>
         <p>Resultado</p>
         </div>
@@ -82,8 +82,8 @@ if (IMC < 17) {
         </div>`
  } else if (IMC >= 35 && IMC <= 39.99) {
         res.InnerHTML = `<div class = "status">
-        <p>Peso</p>>
-        <p>Altura</p>>
+        <p>Peso</p>
+        <p>Altura</p>
         <p>IMC</p>
         <p>Resultado</p>
         </div>
@@ -95,8 +95,8 @@ if (IMC < 17) {
         </div>`
  } else {
         res.InnerHTML = `<div class = "status">
-        <p>Peso</p>>
-        <p>Altura</p>>
+        <p>Peso</p>
+        <p>Altura</p>
         <p>IMC</p>
         <p>Resultado</p>
         </div>
